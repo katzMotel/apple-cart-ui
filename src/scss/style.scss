@@ -1,0 +1,13 @@
+@use './cart';
+@use './checkout';
+@use './footer';
+@use './store';
+@use './header';
+@use './toast';
+
+body {
+    font-family: 'SF Display Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
